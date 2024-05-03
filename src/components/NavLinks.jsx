@@ -14,6 +14,7 @@ export function NavLinks() {
     ['Harga', '/#pricing'],
     ['Tanya', '/#faqs'],
     ['Kebijakan Privasi', '/privacy_policy'],
+    ['Permintaan Hapus Akun', '/tata_cara_hapus_akun'],
   ].map(([label, href], index) => (
     <Link
       key={label}
