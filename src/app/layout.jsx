@@ -11,11 +11,11 @@ const inter = Inter({
 
 export const metadata = {
   title: {
-    template: '%s - Pocket',
-    default: 'Pocket - Invest at the perfect time.',
+    template: '%s - Buku Nomor',
+    default: 'Buku Nomor - Simpan nomor penting kamu di satu tempat',
   },
   description:
-    'By leveraging insights from our network of industry insiders, you’ll know exactly when to buy to maximize profit, and exactly when to sell to avoid painful losses.',
+    'Buku Nomor adalah aplikasi fungsional yang memungkinkan kamu menyimpan nomor penting kamu di satu tempat. Gak perlu lagi buka dompet, buka banyak aplikasi, atau cari-cari nomor penting kamu.',
 }
 
 export default function RootLayout({ children }) {
