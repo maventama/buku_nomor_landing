@@ -110,7 +110,7 @@ export function Header() {
                             <MobileNavLink href="/#faqs">
                                 Tanya
                             </MobileNavLink>
-                            <MobileNavLink href="/privacypolicy">
+                            <MobileNavLink href="/privacy_policy">
                                 Kebijakan Privasi
                             </MobileNavLink>
                           </div>

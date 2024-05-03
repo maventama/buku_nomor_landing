@@ -13,7 +13,7 @@ export function NavLinks() {
     ['Review', '/#reviews'],
     ['Harga', '/#pricing'],
     ['Tanya', '/#faqs'],
-    ['Kebijakan Privasi', '/privacypolicy'],
+    ['Kebijakan Privasi', '/privacy_policy'],
   ].map(([label, href], index) => (
     <Link
       key={label}
