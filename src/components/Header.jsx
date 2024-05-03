@@ -99,15 +99,20 @@ export function Header() {
                         >
                           <div className="space-y-4">
                             <MobileNavLink href="/#features">
-                              Features
+                              Fitur
                             </MobileNavLink>
                             <MobileNavLink href="/#reviews">
-                              Reviews
+                              Review
                             </MobileNavLink>
                             <MobileNavLink href="/#pricing">
-                              Pricing
+                              Harga
                             </MobileNavLink>
-                            <MobileNavLink href="/#faqs">FAQs</MobileNavLink>
+                            <MobileNavLink href="/#faqs">
+                                Tanya
+                            </MobileNavLink>
+                            <MobileNavLink href="/privacypolicy">
+                                Kebijakan Privasi
+                            </MobileNavLink>
                           </div>
                           <div className="mt-8 flex flex-col gap-4">
                             {/* <Button href="/login" variant="outline">
