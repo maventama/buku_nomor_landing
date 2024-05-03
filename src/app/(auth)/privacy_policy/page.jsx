@@ -7,7 +7,7 @@ import { Logo } from '@/components/Logo'
 import { CirclesBackground } from '@/components/CirclesBackground'
 
 export const metadata = {
-  title: 'Sign In',
+  title: 'Kebijakan Privasi',
 }
 
 export default function Privacy_policy() {
